@@ -1,0 +1,9 @@
+[submodule "intellicharge-services"]
+	path = intellicharge-services
+	url = https://github.com/EliasBinder/IntelliCharge
+[submodule "lpr"]
+	path = lpr
+	url = https://github.com/dododevs/intellicharge-lpr
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SimoneFerraris/FrontEnd-vmware-hackaton
